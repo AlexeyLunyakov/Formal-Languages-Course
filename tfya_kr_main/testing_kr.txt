@@ -1,0 +1,20 @@
+program var
+b, c : %; 
+a : !; 
+d : $; 
+begin 
+read(a); 
+c as 001110b; 
+b as 134; 
+if c LT d then 
+[ b as c plus 3 : write(b) ] 
+else write(b); 
+d as 1;
+for c as 1 to 15 do
+b as b min c;
+while d EQ false do
+[ d as true ]
+{ 
+comment about smth idk 
+} 
+end.
