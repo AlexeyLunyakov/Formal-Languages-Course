@@ -1,7 +1,0 @@
-﻿  tfya_kr_main.cpp
-C:\Users\AlexLnv\source\repos\tfya_kr_n\tfya_kr_main\lexer_part.hpp(761,42): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\AlexLnv\source\repos\tfya_kr_n\tfya_kr_main\lexer_part.hpp(762,25): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\AlexLnv\source\repos\tfya_kr_n\tfya_kr_main\lexer_part.hpp(773,44): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\AlexLnv\source\repos\tfya_kr_n\tfya_kr_main\lexer_part.hpp(774,26): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\AlexLnv\source\repos\tfya_kr_n\tfya_kr_main\lexer_part.hpp(804,27): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
-  tfya_kr_main.vcxproj -> C:\Users\AlexLnv\source\repos\tfya_kr_n\tfya_kr_main\x64\Debug\tfya_kr_main.exe
